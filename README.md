@@ -4,6 +4,18 @@
 
 I work across backend, frontend, databases, workflow automation, AI integrations, and production operations, helping turn complex business requirements into working systems.
 
+<p align="center">
+  <a href="https://github.com/boldsamurai" aria-label="GitHub">
+    <img src="./assets/github.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/adcz99" aria-label="LinkedIn">
+    <img src="./assets/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="mailto:aczarnowski99@gmail.com" aria-label="Email">
+    <img src="./assets/email.svg" alt="Email" width="40" height="40" />
+  </a>
+</p>
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -84,9 +96,3 @@ I work across backend, frontend, databases, workflow automation, AI integrations
 - Exploring practical developer tooling and workflow automation
 - Deepening my work around AI agents and integrating AI capabilities into production systems
 - Interested in backend-heavy, systems-oriented, and data-driven products
-
----
-
-<p align="center">
-  <a href="https://github.com/boldsamurai" aria-label="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="https://www.linkedin.com/in/adcz99" aria-label="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:aczarnowski99@gmail.com" aria-label="Email"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
