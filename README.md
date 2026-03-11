@@ -6,13 +6,13 @@ I work across backend, frontend, databases, workflow automation, AI integrations
 
 <p align="center">
   <a href="https://github.com/boldsamurai" aria-label="GitHub">
-    <img src="./assets/github.svg" alt="GitHub" width="40" height="40" />
+    <img src="./assets/github.png" alt="GitHub" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/adcz99" aria-label="LinkedIn">
-    <img src="./assets/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="./assets/linedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:aczarnowski99@gmail.com" aria-label="Email">
-    <img src="./assets/email.svg" alt="Email" width="40" height="40" />
+    <img src="./assets/gmail.png" alt="Email" width="40" height="40" />
   </a>
 </p>
 
