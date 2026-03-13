@@ -14,13 +14,17 @@
 
 ---
 
-## What I Work On
+## 🛠️ What I Work On
 
-- Backend systems and internal platforms
-- Data-heavy workflows and process automation
-- GIS and domain-specific business applications
-- AI-assisted products and integrations
-- Production-ready software with monitoring and operational visibility
+| Area | Focus |
+| --- | --- |
+| Backend | Internal platforms, APIs, and production business logic |
+| Frontend | User-facing interfaces, application flows, and product experience |
+| Data | Data processing, validation, analysis, and workflow-driven business operations |
+| Automation | Workflow automation and process efficiency |
+| GIS | Spatial systems and domain-specific business applications |
+| AI | AI-assisted products and practical integrations |
+| Operations | Monitoring, reliability, and operational visibility |
 
 ---
 
