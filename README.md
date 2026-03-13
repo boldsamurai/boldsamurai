@@ -73,12 +73,12 @@
     </td>
     <td valign="top">
       <strong>Infra</strong><br />
-      Docker
+      Docker · Docker Compose · Nginx
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>Systems</strong><br />
+      <strong>Background processing</strong><br />
       Redis · Celery
     </td>
     <td valign="top">
@@ -93,17 +93,13 @@
     </td>
     <td valign="top">
       <strong>GIS &amp; spatial data</strong><br />
-      GeoServer
+      GeoServer · Leaflet
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" colspan="2">
       <strong>Quality</strong><br />
       Vitest · Playwright · ESLint · Ruff · Prettier
-    </td>
-    <td valign="top">
-      <strong>Tooling</strong><br />
-      Git · GitHub · GitLab
     </td>
   </tr>
 </table>
