@@ -106,29 +106,53 @@
 
 ---
 
-## Selected Work
+## 📌 Selected Work
 
 ### Public projects
 
-- **claude-code-clipboard**  
-  A Claude Code clipboard automation tool that extracts fenced code blocks from responses and copies them directly to the clipboard. Built with a focus on simplicity, usefulness, and saving time in everyday developer workflows.
+<details>
+  <summary><strong>claude-code-clipboard</strong></summary>
+  <p>
+    A Claude clipboard automation tool that extracts fenced code blocks from responses and copies them directly to the clipboard. Built with a focus on simplicity, usefulness, and saving time in everyday developer workflows.
+  </p>
+</details>
 
-- **fuzzymarks**  
-  A browser extension that replaces the default New Tab page with a tree-based bookmark view and fuzzy search. Designed to make large bookmark collections easier to navigate while freeing up screen space by removing the need for a visible bookmarks bar.
+<details>
+  <summary><strong>fuzzymarks</strong></summary>
+  <p>
+    A browser extension that replaces the default New Tab page with a tree-based bookmark view and fuzzy search. Designed to make large bookmark collections easier to navigate while freeing up screen space by removing the need for a visible bookmarks bar.
+  </p>
+</details>
 
 ### Private / commercial work
 
-- **Attendance platform**  
-  Built and evolved an internal attendance system used across the company, covering backend APIs, frontend flows, authentication, admin features, reporting, and business workflow support.
+<details>
+  <summary><strong>Attendance platform</strong></summary>
+  <p>
+    Built and evolved an internal attendance system used across the company, covering backend APIs, frontend flows, authentication, admin features, reporting, and business workflow support.
+  </p>
+</details>
 
-- **Reporting and GIS platform**  
-  End-to-end work on a reporting platform for a government institution, combining domain-specific workflows, public reporting, and a technical stack built around Django, PostgreSQL/PostGIS, and GeoServer.
+<details>
+  <summary><strong>Reporting and GIS platform</strong></summary>
+  <p>
+    End-to-end work on a reporting platform for a government institution, combining domain-specific workflows, public reporting, and a technical stack built around Django, PostgreSQL/PostGIS, and GeoServer.
+  </p>
+</details>
 
-- **AI-assisted citizen service platform**  
-  Worked on backend APIs, data flows, architecture, database operations, and optimization for a platform supporting citizen-facing services through AI integrations and reliable backend systems.
+<details>
+  <summary><strong>AI-assisted citizen service platform</strong></summary>
+  <p>
+    Worked on backend APIs, data flows, architecture, database operations, and optimization for a platform supporting citizen-facing services through AI integrations and reliable backend systems.
+  </p>
+</details>
 
-- **Data processing and analysis workflows**  
-  Built automation for document extraction, validation, comparison, and Excel/JSON-heavy business processing, helping public-sector users process documents faster and reduce manual work in administrative workflows.
+<details>
+  <summary><strong>Data processing and analysis workflows</strong></summary>
+  <p>
+    Built automation for document extraction, validation, comparison, and Excel/JSON-heavy business processing, helping public-sector users process documents faster and reduce manual work in administrative workflows.
+  </p>
+</details>
 
 ---
 
