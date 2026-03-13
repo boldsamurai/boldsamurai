@@ -53,19 +53,66 @@
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-- Backend: Python, FastAPI, Django
-- Frontend: React, TypeScript
-- Data & DB: PostgreSQL, SQLAlchemy, Alembic, PostGIS
-- Infra: Docker
-- Systems: Redis, Celery
-- Observability: Grafana, Loki, Sentry
-- AI integrations: Google Gemini, Google Cloud Speech-to-Text, Google Cloud Text-to-Speech, OpenAI, Anthropic
-- GIS & spatial data: GeoServer
-- Automation & workflows: process automation, data-heavy workflows
-- Quality: Vitest, Playwright, ESLint, Ruff, Prettier
-- Tooling: Git, GitHub, GitLab
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br />
+      Python · FastAPI · Django
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br />
+      React · TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Data &amp; DB</strong><br />
+      PostgreSQL · SQLAlchemy · Alembic · PostGIS
+    </td>
+    <td valign="top">
+      <strong>Infra</strong><br />
+      Docker
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Systems</strong><br />
+      Redis · Celery
+    </td>
+    <td valign="top">
+      <strong>Observability</strong><br />
+      Grafana · Loki · Sentry
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <strong>AI integrations</strong><br />
+      Google Gemini · Google Cloud Speech-to-Text · Google Cloud Text-to-Speech · OpenAI · Anthropic
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>GIS &amp; spatial data</strong><br />
+      GeoServer
+    </td>
+    <td valign="top">
+      <strong>Automation &amp; workflows</strong><br />
+      Process automation · Data-heavy workflows
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Quality</strong><br />
+      Vitest · Playwright · ESLint · Ruff · Prettier
+    </td>
+    <td valign="top">
+      <strong>Tooling</strong><br />
+      Git · GitHub · GitLab
+    </td>
+  </tr>
+</table>
 
 ---
 
