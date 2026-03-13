@@ -16,15 +16,40 @@
 
 ## 🛠️ What I Work On
 
-| Area | Focus |
-| --- | --- |
-| Backend | Internal platforms, APIs, and production business logic |
-| Frontend | User-facing interfaces, application flows, and product experience |
-| Data | Data processing, validation, analysis, and workflow-driven business operations |
-| Automation | Workflow automation and process efficiency |
-| GIS | Spatial systems and domain-specific business applications |
-| AI | AI-assisted products and practical integrations |
-| Operations | Monitoring, reliability, and operational visibility |
+<table align="center">
+  <tr>
+    <th>Area</th>
+    <th>Focus</th>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Internal platforms, APIs, and production business logic</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>User-facing interfaces, application flows, and product experience</td>
+  </tr>
+  <tr>
+    <td>Data</td>
+    <td>Data processing, validation, analysis, and workflow-driven business operations</td>
+  </tr>
+  <tr>
+    <td>Automation</td>
+    <td>Workflow automation and process efficiency</td>
+  </tr>
+  <tr>
+    <td>GIS</td>
+    <td>Spatial systems and domain-specific business applications</td>
+  </tr>
+  <tr>
+    <td>AI</td>
+    <td>AI-assisted products and practical integrations</td>
+  </tr>
+  <tr>
+    <td>Operations</td>
+    <td>Monitoring, reliability, and operational visibility</td>
+  </tr>
+</table>
 
 ---
 
