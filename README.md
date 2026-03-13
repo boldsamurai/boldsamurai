@@ -1,6 +1,4 @@
-# Hi, I'm Adam!
-
-**Full-stack engineer with a backend-first focus.**
+<h1 align="center">Hi, I'm Adam!</h1>
 
 I work across backend, frontend, databases, workflow automation, AI integrations, and production operations, helping turn complex business requirements into working systems.
 
