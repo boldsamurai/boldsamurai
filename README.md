@@ -89,7 +89,7 @@
   <tr>
     <td valign="top" colspan="2">
       <strong>AI integrations</strong><br />
-      Google Gemini · Google Cloud Speech-to-Text · Google Cloud Text-to-Speech · OpenAI · Anthropic
+      Claude Code · CODEX · GEMINI · Google STT/TTS
     </td>
   </tr>
   <tr>
@@ -97,10 +97,7 @@
       <strong>GIS &amp; spatial data</strong><br />
       GeoServer
     </td>
-    <td valign="top">
-      <strong>Automation &amp; workflows</strong><br />
-      Process automation · Data-heavy workflows
-    </td>
+    <td valign="top"></td>
   </tr>
   <tr>
     <td valign="top">
