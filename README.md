@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adam!</h1>
+<h1 align="center">Hi, I'm Adam! 👋</h1>
 
 <p align="center">
   Full-stack • Workflow automation • AI integrations • GIS & data-heavy systems
