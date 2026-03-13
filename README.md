@@ -108,7 +108,7 @@
 
 ## 📌 Selected Work
 
-### Public projects
+### Public projects 🌐
 
 <details>
   <summary><strong>claude-code-clipboard</strong></summary>
@@ -128,7 +128,7 @@
   </blockquote>
 </details>
 
-### Private / commercial work
+### Private / commercial work 💼
 
 <details>
   <summary><strong>Attendance platform</strong></summary>
