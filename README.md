@@ -87,17 +87,14 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
+    <td valign="top">
       <strong>AI integrations</strong><br />
-      Claude Code · CODEX · GEMINI · Google STT/TTS
+      Claude · CODEX · GEMINI · Google STT/TTS
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <strong>GIS &amp; spatial data</strong><br />
       GeoServer
     </td>
-    <td valign="top"></td>
   </tr>
   <tr>
     <td valign="top">
