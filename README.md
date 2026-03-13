@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-I work across backend, frontend, databases, workflow automation, AI integrations, and production operations, helping turn complex business requirements into working systems.
-
 <p align="center">
   <a href="https://github.com/boldsamurai" aria-label="GitHub"><img src="./assets/github.png" alt="GitHub" width="40" height="40" /></a><a href="https://www.linkedin.com/in/adcz99" aria-label="LinkedIn"><img src="./assets/linedin.png" alt="LinkedIn" width="40" height="40" /></a><a href="mailto:aczarnowski99@gmail.com" aria-label="Email"><img src="./assets/gmail.png" alt="Email" width="40" height="40" /></a>
 </p>
 
 <p align="center">
   Full-stack • Workflow automation • AI integrations • GIS & data-heavy systems
+</p>
+
+<p align="center">
+  I work across backend, frontend, databases, workflow automation, AI integrations, and production operations, helping turn complex business requirements into working systems.
 </p>
 
 ---
