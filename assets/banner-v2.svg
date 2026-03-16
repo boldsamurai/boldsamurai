@@ -1,0 +1,70 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal portfolio banner for Adam Czarnowski</title>
+  <desc id="desc">Minimal off-white banner with subtle grid and the text From business requirements to working systems.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8F7F3"/>
+      <stop offset="1" stop-color="#EEF1F4"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="820" y1="52" x2="1210" y2="270" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E7B8A" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#7FA7B5" stop-opacity="0.06"/>
+    </linearGradient>
+    <filter id="softBlur" x="774" y="18" width="482" height="284" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+
+  <g opacity="0.44">
+    <path d="M0 52H1280" stroke="#D6DBE0"/>
+    <path d="M0 106H1280" stroke="#D6DBE0"/>
+    <path d="M0 160H1280" stroke="#D6DBE0"/>
+    <path d="M0 214H1280" stroke="#D6DBE0"/>
+    <path d="M0 268H1280" stroke="#D6DBE0"/>
+    <path d="M118 0V320" stroke="#D6DBE0"/>
+    <path d="M258 0V320" stroke="#D6DBE0"/>
+    <path d="M398 0V320" stroke="#D6DBE0"/>
+    <path d="M538 0V320" stroke="#D6DBE0"/>
+    <path d="M678 0V320" stroke="#D6DBE0"/>
+    <path d="M818 0V320" stroke="#D6DBE0"/>
+    <path d="M958 0V320" stroke="#D6DBE0"/>
+    <path d="M1098 0V320" stroke="#D6DBE0"/>
+  </g>
+
+  <g filter="url(#softBlur)">
+    <ellipse cx="1014" cy="162" rx="197" ry="90" fill="url(#accent)"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M824 86H930L992 128H1114" stroke="#537E8D" stroke-width="2"/>
+    <path d="M874 218H966L1040 170H1182" stroke="#537E8D" stroke-width="2"/>
+    <path d="M960 52V118" stroke="#537E8D" stroke-width="2"/>
+    <path d="M1040 170V244" stroke="#537E8D" stroke-width="2"/>
+    <circle cx="824" cy="86" r="6" fill="#1E2D35"/>
+    <circle cx="930" cy="86" r="6" fill="#1E2D35"/>
+    <circle cx="992" cy="128" r="6" fill="#1E2D35"/>
+    <circle cx="1114" cy="128" r="6" fill="#1E2D35"/>
+    <circle cx="874" cy="218" r="6" fill="#1E2D35"/>
+    <circle cx="966" cy="218" r="6" fill="#1E2D35"/>
+    <circle cx="1040" cy="170" r="6" fill="#1E2D35"/>
+    <circle cx="1182" cy="170" r="6" fill="#1E2D35"/>
+    <circle cx="960" cy="52" r="6" fill="#1E2D35"/>
+    <circle cx="960" cy="118" r="6" fill="#1E2D35"/>
+    <circle cx="1040" cy="244" r="6" fill="#1E2D35"/>
+  </g>
+
+  <g>
+    <text x="96" y="132" fill="#18242B" font-size="20" font-weight="600" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" letter-spacing="0.18em">
+      ADAM CZARNOWSKI
+    </text>
+    <text x="96" y="184" fill="#18242B" font-size="38" font-weight="700" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+      From business requirements to working systems
+    </text>
+    <text x="96" y="224" fill="#4C606A" font-size="18" font-weight="500" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+      Full-stack · Workflow automation · AI integrations · GIS &amp; data-heavy systems
+    </text>
+  </g>
+</svg>
