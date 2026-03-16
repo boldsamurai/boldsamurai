@@ -14,6 +14,15 @@
 
 ---
 
+## 🌱 Currently
+
+- Building more public-facing projects to strengthen my portfolio
+- Exploring practical developer tooling and workflow automation
+- Deepening my work around AI agents and integrating AI capabilities into production systems
+- Interested in backend-heavy, systems-oriented, and data-driven products
+
+---
+
 ## 🛠️ What I Work On
 
 <table align="center">
@@ -175,12 +184,3 @@
 - **Business and technical alignment**: work at the intersection of business needs and technical execution, including client-facing discussions
 - **Real-world focus**: systems built for real environments, not just demos
 - **Workflow improvement**: a strong focus on automation and reducing manual work
-
----
-
-## Currently
-
-- Building more public-facing projects to strengthen my portfolio
-- Exploring practical developer tooling and workflow automation
-- Deepening my work around AI agents and integrating AI capabilities into production systems
-- Interested in backend-heavy, systems-oriented, and data-driven products
