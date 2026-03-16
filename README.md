@@ -188,16 +188,3 @@
     </blockquote>
   </details>
 </details>
-
----
-
-<details>
-  <summary><strong>🎯 What I Bring</strong></summary>
-  <br />
-
-  - **Business to software**: complex business requirements translated into practical, working software
-  - **Cross-functional execution**: comfort across backend, frontend, database, and operational concerns
-  - **Business and technical alignment**: work at the intersection of business needs and technical execution, including client-facing discussions
-  - **Real-world focus**: systems built for real environments, not just demos
-  - **Workflow improvement**: a strong focus on automation and reducing manual work
-</details>
