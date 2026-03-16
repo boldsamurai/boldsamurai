@@ -5,7 +5,11 @@
 <h1 align="center">Hi, I'm Adam! 👋</h1>
 
 <p align="center">
-  I work across backend, frontend, databases, workflow automation, AI integrations, and production operations, helping turn complex business requirements into working systems.
+  I build practical software across backend, frontend, data, and AI integrations, turning complex business requirements into systems that work in real environments.
+</p>
+
+<p align="center">
+  My work sits at the intersection of business needs and technical execution, with a strong focus on reliability, workflow improvement, and reducing manual work.
 </p>
 
 <p align="center">
