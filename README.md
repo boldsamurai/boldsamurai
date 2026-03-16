@@ -62,125 +62,132 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Backend</strong><br />
-      Python · FastAPI · Django
-    </td>
-    <td valign="top" width="50%">
-      <strong>Frontend</strong><br />
-      React · TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>Data &amp; DB</strong><br />
-      PostgreSQL · SQLAlchemy · Alembic · PostGIS
-    </td>
-    <td valign="top">
-      <strong>Infra</strong><br />
-      Docker · Docker Compose · Nginx
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>Background processing</strong><br />
-      Redis · Celery
-    </td>
-    <td valign="top">
-      <strong>Observability</strong><br />
-      Grafana · Loki · Sentry
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>AI integrations</strong><br />
-      Claude · CODEX · GEMINI · Google STT/TTS
-    </td>
-    <td valign="top">
-      <strong>GIS &amp; spatial data</strong><br />
-      GeoServer · Leaflet
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <strong>Quality</strong><br />
-      Vitest · Playwright · ESLint · Ruff · Prettier
-    </td>
-  </tr>
-</table>
-
----
-
-## 📌 Selected Work
-
-### Public projects 🌐
-
 <details>
-  <summary><strong>claude-code-clipboard</strong></summary>
-  <blockquote>
-    <p>
-      A Claude clipboard automation tool that extracts fenced code blocks from responses and copies them directly to the clipboard, with a focus on simplicity, usefulness, and saving time in everyday developer workflows.
-    </p>
-  </blockquote>
-</details>
-
-<details>
-  <summary><strong>fuzzymarks</strong></summary>
-  <blockquote>
-    <p>
-      A browser extension that replaces the default New Tab page with a tree-based bookmark view and fuzzy search, making large bookmark collections easier to navigate while freeing up screen space.
-    </p>
-  </blockquote>
-</details>
-
-### Private / commercial work 💼
-
-<details>
-  <summary><strong>Attendance platform</strong></summary>
-  <blockquote>
-    <p>
-      Built and evolved an internal attendance system used across the company, covering backend APIs, frontend flows, authentication, admin features, reporting, and business workflow support.
-    </p>
-  </blockquote>
-</details>
-
-<details>
-  <summary><strong>Reporting and GIS platform</strong></summary>
-  <blockquote>
-    <p>
-      End-to-end work on a reporting platform for a government institution, combining domain-specific workflows, public reporting, and a technical stack built around Django, PostgreSQL/PostGIS, and GeoServer.
-    </p>
-  </blockquote>
-</details>
-
-<details>
-  <summary><strong>AI-assisted citizen service platform</strong></summary>
-  <blockquote>
-    <p>
-      Worked on backend APIs, data flows, architecture, database operations, and optimization for a platform supporting citizen-facing services through AI integrations and reliable backend systems.
-    </p>
-  </blockquote>
-</details>
-
-<details>
-  <summary><strong>Data processing and analysis workflows</strong></summary>
-  <blockquote>
-    <p>
-      Built automation for document extraction, validation, comparison, and Excel/JSON-heavy business processing, helping public-sector users process documents faster and reduce manual work in administrative workflows.
-    </p>
-  </blockquote>
+  <summary><strong>⚙️ Tech Stack</strong></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <td valign="top" width="50%">
+        <strong>Backend</strong><br />
+        Python · FastAPI · Django
+      </td>
+      <td valign="top" width="50%">
+        <strong>Frontend</strong><br />
+        React · TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>Data &amp; DB</strong><br />
+        PostgreSQL · SQLAlchemy · Alembic · PostGIS
+      </td>
+      <td valign="top">
+        <strong>Infra</strong><br />
+        Docker · Docker Compose · Nginx
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>Background processing</strong><br />
+        Redis · Celery
+      </td>
+      <td valign="top">
+        <strong>Observability</strong><br />
+        Grafana · Loki · Sentry
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>AI integrations</strong><br />
+        Claude · CODEX · GEMINI · Google STT/TTS
+      </td>
+      <td valign="top">
+        <strong>GIS &amp; spatial data</strong><br />
+        GeoServer · Leaflet
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="2">
+        <strong>Quality</strong><br />
+        Vitest · Playwright · ESLint · Ruff · Prettier
+      </td>
+    </tr>
+  </table>
 </details>
 
 ---
 
-## 🎯 What I Bring
+<details>
+  <summary><strong>📌 Selected Work</strong></summary>
+  <br />
+  <h3>Public projects 🌐</h3>
 
-- **Business to software**: complex business requirements translated into practical, working software
-- **Cross-functional execution**: comfort across backend, frontend, database, and operational concerns
-- **Business and technical alignment**: work at the intersection of business needs and technical execution, including client-facing discussions
-- **Real-world focus**: systems built for real environments, not just demos
-- **Workflow improvement**: a strong focus on automation and reducing manual work
+  <details>
+    <summary><strong>claude-code-clipboard</strong></summary>
+    <blockquote>
+      <p>
+        A Claude clipboard automation tool that extracts fenced code blocks from responses and copies them directly to the clipboard, with a focus on simplicity, usefulness, and saving time in everyday developer workflows.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>fuzzymarks</strong></summary>
+    <blockquote>
+      <p>
+        A browser extension that replaces the default New Tab page with a tree-based bookmark view and fuzzy search, making large bookmark collections easier to navigate while freeing up screen space.
+      </p>
+    </blockquote>
+  </details>
+
+  <h3>Private / commercial work 💼</h3>
+
+  <details>
+    <summary><strong>Attendance platform</strong></summary>
+    <blockquote>
+      <p>
+        Built and evolved an internal attendance system used across the company, covering backend APIs, frontend flows, authentication, admin features, reporting, and business workflow support.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>Reporting and GIS platform</strong></summary>
+    <blockquote>
+      <p>
+        End-to-end work on a reporting platform for a government institution, combining domain-specific workflows, public reporting, and a technical stack built around Django, PostgreSQL/PostGIS, and GeoServer.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>AI-assisted citizen service platform</strong></summary>
+    <blockquote>
+      <p>
+        Worked on backend APIs, data flows, architecture, database operations, and optimization for a platform supporting citizen-facing services through AI integrations and reliable backend systems.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>Data processing and analysis workflows</strong></summary>
+    <blockquote>
+      <p>
+        Built automation for document extraction, validation, comparison, and Excel/JSON-heavy business processing, helping public-sector users process documents faster and reduce manual work in administrative workflows.
+      </p>
+    </blockquote>
+  </details>
+</details>
+
+---
+
+<details>
+  <summary><strong>🎯 What I Bring</strong></summary>
+  <br />
+
+  - **Business to software**: complex business requirements translated into practical, working software
+  - **Cross-functional execution**: comfort across backend, frontend, database, and operational concerns
+  - **Business and technical alignment**: work at the intersection of business needs and technical execution, including client-facing discussions
+  - **Real-world focus**: systems built for real environments, not just demos
+  - **Workflow improvement**: a strong focus on automation and reducing manual work
+</details>
