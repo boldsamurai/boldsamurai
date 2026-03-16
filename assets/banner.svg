@@ -63,8 +63,8 @@
     <text x="96" y="184" fill="#18242B" font-size="38" font-weight="700" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
       From business requirements to working systems
     </text>
-    <text x="96" y="224" fill="#4C606A" font-size="20" font-weight="500" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
-      backend · data · workflows · AI
+    <text x="96" y="224" fill="#4C606A" font-size="18" font-weight="500" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+      Full-stack · Workflow automation · AI integrations · GIS &amp; data-heavy systems
     </text>
   </g>
 </svg>
