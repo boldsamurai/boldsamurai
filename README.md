@@ -14,51 +14,57 @@
 
 ---
 
-## 🌱 Currently
+<details>
+  <summary><strong>🌱 Currently</strong></summary>
+  <br />
 
-- Building more public-facing projects to strengthen my portfolio
-- Exploring practical developer tooling and workflow automation
-- Deepening my work around AI agents and integrating AI capabilities into production systems
-- Interested in backend-heavy, systems-oriented, and data-driven products
+  - Building more public-facing projects to strengthen my portfolio
+  - Exploring practical developer tooling and workflow automation
+  - Deepening my work around AI agents and integrating AI capabilities into production systems
+  - Interested in backend-heavy, systems-oriented, and data-driven products
+</details>
 
 ---
 
-## 🛠️ What I Work With
+<details>
+  <summary><strong>🛠️ What I Work With</strong></summary>
+  <br />
 
-<table align="center">
-  <tr>
-    <th>Area</th>
-    <th>Focus</th>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>Internal platforms, APIs, and production business logic</td>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>User-facing interfaces, application flows, and product experience</td>
-  </tr>
-  <tr>
-    <td>Data</td>
-    <td>Data processing, validation, analysis, and workflow-driven business operations</td>
-  </tr>
-  <tr>
-    <td>Automation</td>
-    <td>Workflow automation and process efficiency</td>
-  </tr>
-  <tr>
-    <td>GIS</td>
-    <td>Spatial systems and domain-specific business applications</td>
-  </tr>
-  <tr>
-    <td>AI</td>
-    <td>AI-assisted products and practical integrations</td>
-  </tr>
-  <tr>
-    <td>Operations</td>
-    <td>Monitoring, reliability, and operational visibility</td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+      <th>Area</th>
+      <th>Focus</th>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Internal platforms, APIs, and production business logic</td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td>User-facing interfaces, application flows, and product experience</td>
+    </tr>
+    <tr>
+      <td>Data</td>
+      <td>Data processing, validation, analysis, and workflow-driven business operations</td>
+    </tr>
+    <tr>
+      <td>Automation</td>
+      <td>Workflow automation and process efficiency</td>
+    </tr>
+    <tr>
+      <td>GIS</td>
+      <td>Spatial systems and domain-specific business applications</td>
+    </tr>
+    <tr>
+      <td>AI</td>
+      <td>AI-assisted products and practical integrations</td>
+    </tr>
+    <tr>
+      <td>Operations</td>
+      <td>Monitoring, reliability, and operational visibility</td>
+    </tr>
+  </table>
+</details>
 
 ---
 
