@@ -16,8 +16,6 @@
   <a href="https://github.com/boldsamurai" aria-label="GitHub"><img src="./assets/github.png" alt="GitHub" width="40" height="40" /></a><a href="https://www.linkedin.com/in/adcz99" aria-label="LinkedIn"><img src="./assets/linedin.png" alt="LinkedIn" width="40" height="40" /></a><a href="mailto:aczarnowski99@gmail.com" aria-label="Email"><img src="./assets/gmail.png" alt="Email" width="40" height="40" /></a>
 </p>
 
----
-
 <details>
   <summary><strong>🌱 Currently</strong></summary>
   <br />
@@ -27,8 +25,6 @@
   - Deepening my work around AI agents and integrating AI capabilities into production systems
   - Interested in backend-heavy, systems-oriented, and data-driven products
 </details>
-
----
 
 <details>
   <summary><strong>🛠️ What I Work With</strong></summary>
@@ -69,8 +65,6 @@
     </tr>
   </table>
 </details>
-
----
 
 <details>
   <summary><strong>⚙️ Tech Stack</strong></summary>
@@ -124,8 +118,6 @@
     </tr>
   </table>
 </details>
-
----
 
 <details>
   <summary><strong>📌 Selected Work</strong></summary>
