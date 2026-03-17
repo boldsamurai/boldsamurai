@@ -17,13 +17,65 @@
 </p>
 
 <details>
-  <summary><strong>🌱 Currently</strong></summary>
+  <summary><strong>📌 Selected Work</strong></summary>
   <br />
+  <h3>Public projects 🌐</h3>
 
-  - Building more public-facing projects to strengthen my portfolio
-  - Exploring practical developer tooling and workflow automation
-  - Deepening my work around AI agents and integrating AI capabilities into production systems
-  - Interested in backend-heavy, systems-oriented, and data-driven products
+  <details>
+    <summary><strong>claude-code-clipboard</strong></summary>
+    <blockquote>
+      <p>
+        A Claude clipboard automation tool that extracts fenced code blocks from responses and copies them directly to the clipboard, with a focus on simplicity, usefulness, and saving time in everyday developer workflows.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>fuzzymarks</strong></summary>
+    <blockquote>
+      <p>
+        A browser extension that replaces the default New Tab page with a tree-based bookmark view and fuzzy search, making large bookmark collections easier to navigate while freeing up screen space.
+      </p>
+    </blockquote>
+  </details>
+
+  <h3>Private / commercial work 💼</h3>
+
+  <details>
+    <summary><strong>Attendance platform</strong></summary>
+    <blockquote>
+      <p>
+        Built and evolved an internal attendance system used across the company, covering backend APIs, frontend flows, authentication, admin features, reporting, and business workflow support.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>Reporting and GIS platform</strong></summary>
+    <blockquote>
+      <p>
+        End-to-end work on a reporting platform for a government institution, combining domain-specific workflows, public reporting, and a technical stack built around Django, PostgreSQL/PostGIS, and GeoServer.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>AI-assisted citizen service platform</strong></summary>
+    <blockquote>
+      <p>
+        Worked on backend APIs, data flows, architecture, database operations, and optimization for a platform supporting citizen-facing services through AI integrations and reliable backend systems.
+      </p>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary><strong>Data processing and analysis workflows</strong></summary>
+    <blockquote>
+      <p>
+        Built automation for document extraction, validation, comparison, and Excel/JSON-heavy business processing, helping public-sector users process documents faster and reduce manual work in administrative workflows.
+      </p>
+    </blockquote>
+  </details>
 </details>
 
 <details>
@@ -120,63 +172,11 @@
 </details>
 
 <details>
-  <summary><strong>📌 Selected Work</strong></summary>
+  <summary><strong>🌱 Currently</strong></summary>
   <br />
-  <h3>Public projects 🌐</h3>
 
-  <details>
-    <summary><strong>claude-code-clipboard</strong></summary>
-    <blockquote>
-      <p>
-        A Claude clipboard automation tool that extracts fenced code blocks from responses and copies them directly to the clipboard, with a focus on simplicity, usefulness, and saving time in everyday developer workflows.
-      </p>
-    </blockquote>
-  </details>
-
-  <details>
-    <summary><strong>fuzzymarks</strong></summary>
-    <blockquote>
-      <p>
-        A browser extension that replaces the default New Tab page with a tree-based bookmark view and fuzzy search, making large bookmark collections easier to navigate while freeing up screen space.
-      </p>
-    </blockquote>
-  </details>
-
-  <h3>Private / commercial work 💼</h3>
-
-  <details>
-    <summary><strong>Attendance platform</strong></summary>
-    <blockquote>
-      <p>
-        Built and evolved an internal attendance system used across the company, covering backend APIs, frontend flows, authentication, admin features, reporting, and business workflow support.
-      </p>
-    </blockquote>
-  </details>
-
-  <details>
-    <summary><strong>Reporting and GIS platform</strong></summary>
-    <blockquote>
-      <p>
-        End-to-end work on a reporting platform for a government institution, combining domain-specific workflows, public reporting, and a technical stack built around Django, PostgreSQL/PostGIS, and GeoServer.
-      </p>
-    </blockquote>
-  </details>
-
-  <details>
-    <summary><strong>AI-assisted citizen service platform</strong></summary>
-    <blockquote>
-      <p>
-        Worked on backend APIs, data flows, architecture, database operations, and optimization for a platform supporting citizen-facing services through AI integrations and reliable backend systems.
-      </p>
-    </blockquote>
-  </details>
-
-  <details>
-    <summary><strong>Data processing and analysis workflows</strong></summary>
-    <blockquote>
-      <p>
-        Built automation for document extraction, validation, comparison, and Excel/JSON-heavy business processing, helping public-sector users process documents faster and reduce manual work in administrative workflows.
-      </p>
-    </blockquote>
-  </details>
+  - Building more public-facing projects to strengthen my portfolio
+  - Exploring practical developer tooling and workflow automation
+  - Deepening my work around AI agents and integrating AI capabilities into production systems
+  - Interested in backend-heavy, systems-oriented, and data-driven products
 </details>
