@@ -34,6 +34,17 @@
 
   <blockquote>
     <details>
+      <summary><strong>linkedin-post</strong></summary>
+      <blockquote>
+        <p>
+          An interactive CLI tool that generates LinkedIn post drafts from various sources — GitHub repos, articles, or personal notes. AI-assisted, not AI-generated: you always review, refine, and approve before posting.
+        </p>
+      </blockquote>
+    </details>
+  </blockquote>
+
+  <blockquote>
+    <details>
       <summary><strong>fuzzymarks</strong></summary>
       <blockquote>
         <p>
